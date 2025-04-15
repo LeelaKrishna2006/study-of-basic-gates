@@ -86,14 +86,16 @@ endmodule
  
 ![image](https://github.com/user-attachments/assets/d7283b52-db9e-4d60-a430-ffbef01d1edd)
 
+**RTL**
+![image](https://github.com/user-attachments/assets/dc3f5e4e-42c3-4c21-a0fb-3145fa6572ae)
+
 
 **RTL realization Output:** 
 ![image](https://github.com/user-attachments/assets/60a641f5-d05a-4369-a351-05c990785ab2)
 
 
 
-**RTL**
-![image](https://github.com/user-attachments/assets/dc3f5e4e-42c3-4c21-a0fb-3145fa6572ae)
+
 
 **Result:**
 
